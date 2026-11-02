@@ -9,7 +9,7 @@ I built an enterprise network from scratch using Oracle VirtualBox, Windows Serv
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle Virtual Machine</b>
 
 <h2>Environments Used </h2>
 
